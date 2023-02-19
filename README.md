@@ -21,6 +21,7 @@
   <a href="https://www.linkedin.com/in/andre-dal-negro-042b391bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=wnexous&show_icons=true&theme=tokyonight"/>
 
-
+<div style="margin-block:1rem"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=wnexous&show_icons=true&theme=tokyonight"/>
+</div>
