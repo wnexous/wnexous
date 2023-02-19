@@ -11,6 +11,8 @@
 </div>
   
   ##
+
+
  
 <div> 
   <a href="https://www.youtube.com/channel/UCKO6XnqrgmkzKWxloT72e7g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -19,7 +21,8 @@
   <a href="https://www.linkedin.com/in/andre-dal-negro-042b391bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<div style="display:flex;">
+<div style="display:flex">
+<iframe style="border: none; margin:0; padding:0" src="https://github-readme-stats.vercel.app/api?username=wnexous&show_icons=true&theme=tokyonight"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnexous&show_icons=true&theme=radical)
 </div>
+
