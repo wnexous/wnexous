@@ -21,6 +21,5 @@
 </div>
 <div style="display:flex;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnexous&hide_progress=true)](https://github.com/wnexous)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnexous&show_icons=true&theme=radical)
 </div>
