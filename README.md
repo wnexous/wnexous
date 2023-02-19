@@ -25,3 +25,5 @@
 <div style="margin-block:1rem"> 
     <img src="https://github-readme-stats.vercel.app/api?username=wnexous&show_icons=true&theme=tokyonight"/>
 </div>
+
+![Snake animation](https://github.com/wnexous/wnexous/blob/output/github-contribution-grid-snake.svg)
