@@ -21,8 +21,7 @@
   <a href="https://www.linkedin.com/in/andre-dal-negro-042b391bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<div style="display:flex">
-    <iframe style="border: none; margin:0; padding:0 " src="https://github-readme-stats.vercel.app/api?username=wnexous&show_icons=true&theme=tokyonight"></iframe>
 
-</div>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnexous&show_icons=true&theme=tokyonight)
+
 
