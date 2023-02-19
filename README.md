@@ -22,8 +22,8 @@
   
 </div>
 
-<div style="margin-block:1rem"> 
+<section style="margin-block:3rem"> 
     <img src="https://github-readme-stats.vercel.app/api?username=wnexous&show_icons=true&theme=tokyonight"/>
-</div>
+</section>
 
 ![Snake animation](https://github.com/wnexous/wnexous/blob/output/github-contribution-grid-snake.svg)
