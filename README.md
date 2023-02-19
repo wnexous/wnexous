@@ -22,7 +22,7 @@
   
 </div>
 <div style="display:flex">
-    <iframe style="border: none; margin:0; padding:0 " src="https://github-readme-stats.vercel.app/api?username=wnexous&show_icons=true&theme=tokyonight">
+    <iframe style="border: none; margin:0; padding:0 " src="https://github-readme-stats.vercel.app/api?username=wnexous&show_icons=true&theme=tokyonight"></iframe>
 
 </div>
 
