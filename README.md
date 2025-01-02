@@ -1,4 +1,4 @@
-## Oieeee, sou o nexinho, um pequeno mestre em gambiarras digitais.
+## Feijao
 
 <div style="display: inline_block"><br>
   <img align="center" alt="nexus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
